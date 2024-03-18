@@ -63,6 +63,13 @@ Filtering Tasks: Implements task filtering based on completion status, enabling 
 
 Local Storage: Utilizes browser local storage to store task data persistently, ensuring that tasks are retained even after page reloads or browser sessions, enhancing user convenience and continuity.
 
+/** IMAGES **/
+image1 : The image shows homepage of application where it consists of input field,add button to add new tasks and filter tag to filter between completed tasks and incompleted tasks.
+
+ image2 : The image shows the some tasks which are entered by user user and one of them was completed and two of them are yet to be completed.
+
+ image3: The image shows the only incompleted tasks because the user filtered the tasks to incompleted tasks.
+ 
 /** CONCLUSION **/
 
 In conclusion, the To-Do list web application provides a comprehensive solution for task management, catering to users' organizational needs and enhancing productivity. Its intuitive interface, dynamic functionality, and seamless data persistence make it a valuable tool for individuals seeking to streamline their task management workflows effectively. Whether used for personal task tracking or collaborative project management, the application offers a versatile platform for efficient task organization and execution.
